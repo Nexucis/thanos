@@ -120,7 +120,7 @@ require (
 	github.com/alecthomas/kingpin/v2 v2.4.0
 	github.com/oklog/ulid/v2 v2.1.1
 	github.com/prometheus/otlptranslator v0.0.0-20250620074007-94f535e0c588
-	github.com/tjhop/slog-gokit v0.1.4
+	github.com/tjhop/slog-gokit v0.1.5
 	go.opentelemetry.io/collector/pdata v1.35.0
 	go.opentelemetry.io/collector/semconv v0.128.0
 )
@@ -197,7 +197,7 @@ require (
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.3 // indirect
-	github.com/go-logfmt/logfmt v0.6.0 // indirect
+	github.com/go-logfmt/logfmt v0.6.1 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.23.0 // indirect
