@@ -119,7 +119,7 @@ require (
 	github.com/VictoriaMetrics/easyproto v0.1.4
 	github.com/alecthomas/kingpin/v2 v2.4.0
 	github.com/oklog/ulid/v2 v2.1.1
-	github.com/prometheus/otlptranslator v0.0.0-20250620074007-94f535e0c588
+	github.com/prometheus/otlptranslator v1.0.0
 	github.com/tjhop/slog-gokit v0.1.4
 	go.opentelemetry.io/collector/pdata v1.35.0
 	go.opentelemetry.io/collector/semconv v0.128.0
