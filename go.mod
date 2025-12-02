@@ -76,7 +76,7 @@ require (
 	go.elastic.co/apm v1.15.0
 	go.elastic.co/apm/module/apmot v1.15.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.61.0
-	go.opentelemetry.io/contrib/samplers/jaegerremote v0.30.0
+	go.opentelemetry.io/contrib/samplers/jaegerremote v0.32.0
 	go.opentelemetry.io/otel v1.38.0
 	go.opentelemetry.io/otel/bridge/opentracing v1.36.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
